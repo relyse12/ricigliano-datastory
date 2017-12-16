@@ -23,3 +23,9 @@ h1,h2,h3,h4,h5 {
 img {
 	width: 100%;
 }
+
+section#person-practices div.media-wrapper img {
+	width: 100px;
+	float: right;
+	margin-left: 30px;
+}
