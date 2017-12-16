@@ -44,3 +44,14 @@ div.video-container iframe {
 }
 
 /* GRID */
+
+<div class="wrapper">
+	<div>One</div>
+	<div>Two</div>
+	<div>Three</div>
+	<div>Four</div>
+</div>
+
+.wrapper {
+	display: grid;
+}
