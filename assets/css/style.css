@@ -1,15 +1,25 @@
 /* GENERAL STYLES */
 
+html {
+	background: 
+}
+
 p {
-	margin:15px;
+	margin: 15px;
 }
 
 /* FONTS */
 
 body {
 	font-size: 20px;
-	font-family: "akzidenz-grotesk-bq";
+	font-family: "avenir";
 }
 h1,h2,h3,h4,h5 {
 	font-family: "bangla-sangam-mn";
+}
+
+/* MEDIA STYLES */
+
+img {
+	width: 100%;
 }
