@@ -11,7 +11,7 @@ p {
 /* FONTS */
 
 body {
-	font-size: 20px;
+	font-size: 16px;
 	font-family: "avenir";
 }
 h1,h2,h3,h4,h5 {
@@ -29,3 +29,18 @@ section#person-practices div.media-wrapper img {
 	float: right;
 	margin-left: 30px;
 }
+
+div.video-container {
+	position: relative;
+	width: 100%;
+}
+
+div.video-container iframe {
+	position: absolute;
+	top: 0; left: 0;
+	margin-left: 15px;
+	width: 80%;
+	height: 80%;
+}
+
+/* GRID */
