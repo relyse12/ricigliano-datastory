@@ -1,1 +1,15 @@
-CSS
+/* GENERAL STYLES */
+
+p {
+	margin:15px;
+}
+
+/* FONTS */
+
+body {
+	font-size: 20px;
+	font-family: "akzidenz-grotesk-bq";
+}
+h1,h2,h3,h4,h5 {
+	font-family: "bangla-sangam-mn";
+}
