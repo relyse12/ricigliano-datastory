@@ -43,7 +43,7 @@ div.video-container iframe {
 	height: 80%;
 }
 
-/* GRID */
+/* GRID */ /* MAKE CHANGES */
 
 section#introduction,
 section#personal-practices,
@@ -76,3 +76,37 @@ header, footer {
 		grid-column: 1;
 	}
 }
+
+/* SECTION STYLES */
+
+section#introduction div,
+section#person-practices div,
+section#social-practices div,
+section#conclusion div {
+	min-height: 350px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+section#introduction div.content-wrapper {
+	margin-left: 15px
+}
+
+section#personal-practices div.content-wrapper {
+	margin-right: 15px;
+}
+
+section#social-practices div.content-wrapper {
+	margin-left: 15px;
+}
+
+section#conclusion div.content-wrapper {
+	margin-right: 15px;
+}
+
+div.media-wrapper {
+	align-self: center;
+}
+
+/* HEADER STYLES */
+
