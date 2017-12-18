@@ -113,3 +113,28 @@ div.media-wrapper {
 header {
 	height: 450px;
 }
+
+header h1 {
+	margin: 30px;
+	text-align: left;
+}
+
+header h2 {
+	margin: 30px;
+	text-align: right;
+}
+
+header h3 {
+	margin: 30px;
+	text-align: right;
+}
+
+header h4 {
+	margin: 30px;
+	text-align: left;
+}
+
+header h5 {
+	margin: 30px;
+	text-align: right;
+}
