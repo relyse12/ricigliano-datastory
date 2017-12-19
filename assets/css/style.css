@@ -1,9 +1,5 @@
 /* GENERAL STYLES */
 
-html {
-	background: 
-}
-
 p {
 	margin: 15px;
 }
@@ -11,10 +7,10 @@ p {
 /* FONTS */
 
 body {
-	font-size: 16px;
 	font-family: "avenir";
+	font-size: 16px;
 }
-h1,h2,h3,h4,h5 {
+h1,h2,h3,h4,h5,h6 {
 	font-family: "verdana";
 	font-size: 22px;
 }
@@ -25,7 +21,7 @@ img {
 	width: 100%;
 }
 
-section#personal-practices div.media-wrapper img {
+section#personal-practices div.content-wrapper img {
 	width: 100px;
 	float: right;
 	margin-left: 30px;
@@ -72,7 +68,7 @@ header, footer {
 		grid-column: 1;
 	}
 	
-	section#social div.media-wrapper{
+	section#social-practices div.media-wrapper{
 		grid-row: 1;
 		grid-column: 1;
 	}
@@ -91,22 +87,26 @@ section#conclusion div {
 
 section#introduction div.content-wrapper {
 	margin-left: 15px;
-	background-color: white;
+	background-color: #ffffff;
+	text-align: left;
 }
 
 section#personal-practices div.content-wrapper {
 	margin-right: 15px;
 	background-color: #ffafb7;
+	text-align: right;
 }
 
 section#social-practices div.content-wrapper {
 	margin-left: 15px;
-	background-color: white;
+	background-color: #ffffff;
+	text-align: left;
 }
 
 section#conclusion div.content-wrapper {
 	margin-right: 15px;
 	background-color: #ffafb7;
+	text-align: right;
 }
 
 div.media-wrapper {
@@ -121,12 +121,12 @@ header {
 
 header h1 {
 	margin: 30px;
-	text-align: left;
+	text-align: center;
 }
 
 header h2 {
 	margin: 30px;
-	text-align: right;
+	text-align: left;
 }
 
 header h3 {
@@ -136,10 +136,15 @@ header h3 {
 
 header h4 {
 	margin: 30px;
-	text-align: left;
+	text-align: right;
 }
 
 header h5 {
 	margin: 30px;
-	text-align: right;
+	text-align: left;
+}
+
+header h6 {
+	margin: 30px;
+	text-align: center;
 }
