@@ -90,19 +90,23 @@ section#conclusion div {
 }
 
 section#introduction div.content-wrapper {
-	margin-left: 15px
+	margin-left: 15px;
+	background-color: white;
 }
 
 section#personal-practices div.content-wrapper {
 	margin-right: 15px;
+	background-color: #ffafb7;
 }
 
 section#social-practices div.content-wrapper {
 	margin-left: 15px;
+	background-color: white;
 }
 
 section#conclusion div.content-wrapper {
 	margin-right: 15px;
+	background-color: #ffafb7;
 }
 
 div.media-wrapper {
