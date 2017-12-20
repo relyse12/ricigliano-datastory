@@ -98,7 +98,8 @@ section#introduction {
 
 section#personal-practices div.content-wrapper {
 	margin-left: 15px;
-	text-align: center;
+	text-align: left;
+	position: relative;
 }
 
 section#social-practices div.content-wrapper {
