@@ -16,6 +16,7 @@ body {
 	font-family: "avenir";
 	font-size: 16px;
 }
+
 h1,h2,h3,h4,h5,h6 {
 	font-family: "verdana";
 	font-size: 24px;
@@ -46,7 +47,7 @@ div.video-container iframe {
 	height: 80%;
 }
 
-/* GRID */ /* MAKE CHANGES */
+/* GRID */
 
 section#introduction {
   display:grid;
@@ -79,8 +80,10 @@ section#person-practices div,
 section#social-practices div,
 section#conclusion div {
 	min-height: 350px;
-	padding-bottom: 50px;
-	padding-top: 50px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-right: 30px;
+	padding-left: 30px;
 }
 
 section#introduction {
