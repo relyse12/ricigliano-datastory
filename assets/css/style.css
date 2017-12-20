@@ -40,6 +40,7 @@ section#personal-practices div.media-wrapper img {
 }
 
 div.video-container {
+	position: relative;
 	width: 60%;
 }
 
