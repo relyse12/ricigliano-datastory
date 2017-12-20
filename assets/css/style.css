@@ -90,7 +90,7 @@ section#conclusion div {
 	padding-top: 50px;
 }
 
-section#introduction div.content-wrapper {
+section#introduction {
 	margin-left: 15px;
 	text-align: left;
 }
@@ -105,7 +105,7 @@ section#social-practices div.content-wrapper {
 	text-align: left;
 }
 
-section#conclusion div.content-wrapper {
+section#conclusion {
 	margin-right: 15px;
 	text-align: right;
 }
