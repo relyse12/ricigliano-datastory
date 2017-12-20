@@ -86,7 +86,7 @@ section#conclusion div {
 	padding-left: 30px;
 }
 
-section#introduction {
+section#introduction div {
 	margin-left: 15px;
 	text-align: left;
 }
@@ -94,7 +94,6 @@ section#introduction {
 section#personal-practices div.content-wrapper {
 	margin-left: 15px;
 	text-align: left;
-	position: relative;
 }
 
 section#social-practices div.content-wrapper {
@@ -102,7 +101,7 @@ section#social-practices div.content-wrapper {
 	text-align: left;
 }
 
-section#conclusion {
+section#conclusion div {
 	margin-left: 15px;
 	text-align: left;
 }
