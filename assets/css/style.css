@@ -67,13 +67,17 @@ section#social-practices {
   grid-template-columns: 1fr 1fr;
 }
 
+section#social-practices div.video-container {
+	grid-column: 2;
+}
+
 section#conclusion {
   display:grid;
   grid-gap: 20px;
   grid-template-columns: 1fr
 }
 
-@media screen and (min-width: 1080px)
+@media screen and (min-width: 670px)
 
 /* SECTION STYLES */
 
