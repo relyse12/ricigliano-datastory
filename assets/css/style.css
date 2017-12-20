@@ -8,7 +8,6 @@ html {
 p {
 	
 	margin: 15px;
-	background-color: white;
 }
 
 /* FONTS */
@@ -19,7 +18,7 @@ body {
 }
 h1,h2,h3,h4,h5,h6 {
 	font-family: "verdana";
-	font-size: 22px;
+	font-size: 24px;
 }
 
 /* MEDIA STYLES */
@@ -29,7 +28,7 @@ img {
 }
 
 section#personal-practices div.media-wrapper img {
-	width: 100px;
+	width: 450px;
 	float: left;
 	margin-left: 15px;
 }
