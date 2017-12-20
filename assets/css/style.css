@@ -2,11 +2,19 @@
 
 html {
 	section#introduction {
-		background: #ffffff;
+		background-color: #ffffff;
 	}
 	
 	section#personal-practices {
-		background: #ffafb7;
+		background-color: #ffafb7;
+	}
+	
+	section#social-practices {
+		background-color: #ffffff;
+	}
+	
+	section#conclusion {
+		background-color: #ffafb7;
 	}
 }
 
@@ -107,13 +115,11 @@ section#personal-practices div.content-wrapper {
 
 section#social-practices div.content-wrapper {
 	margin-left: 15px;
-	background-color: #ffffff;
 	text-align: left;
 }
 
 section#conclusion div.content-wrapper {
 	margin-right: 15px;
-	background-color: #ffafb7;
 	text-align: right;
 }
 
@@ -127,32 +133,32 @@ header {
 	height: 450px;
 }
 
-header h1 {
+h1 {
 	margin: 30px;
 	text-align: center;
 }
 
-header h2 {
+h2 {
 	margin: 30px;
 	text-align: left;
 }
 
-header h3 {
+h3 {
 	margin: 30px;
 	text-align: right;
 }
 
-header h4 {
+h4 {
 	margin: 30px;
 	text-align: right;
 }
 
-header h5 {
+h5 {
 	margin: 30px;
 	text-align: left;
 }
 
-header h6 {
+h6 {
 	margin: 30px;
 	text-align: center;
 }
