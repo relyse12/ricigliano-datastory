@@ -6,13 +6,15 @@ html {
 }
 
 p {
+	
 	margin: 15px;
+	background-color: white;
 }
 
 header {
 
 	height: 100px;
-	background-color: white;
+	width: 450px;
 }
 
 /* FONTS */
