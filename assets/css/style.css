@@ -11,12 +11,6 @@ p {
 	background-color: white;
 }
 
-header {
-
-	height: 100px;
-	width: 450px;
-}
-
 /* FONTS */
 
 body {
@@ -104,8 +98,8 @@ section#introduction {
 }
 
 section#personal-practices div.content-wrapper {
-	margin-right: 15px;
-	text-align: right;
+	margin-left: 15px;
+	text-align: left;
 }
 
 section#social-practices div.content-wrapper {
@@ -114,8 +108,8 @@ section#social-practices div.content-wrapper {
 }
 
 section#conclusion {
-	margin-right: 15px;
-	text-align: right;
+	margin-left: 15px;
+	text-align: left;
 }
 
 div.media-wrapper {
@@ -125,7 +119,8 @@ div.media-wrapper {
 /* HEADER STYLES */
 
 header {
-	height: 450px;
+	height: 100px;
+	width: 450px;
 }
 
 h1 {
