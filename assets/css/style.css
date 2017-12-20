@@ -1,5 +1,15 @@
 /* GENERAL STYLES */
 
+html {
+	section#introduction {
+		background: #ffffff;
+	}
+	
+	section#personal-practices {
+		background: #ffafb7;
+	}
+}
+
 p {
 	margin: 15px;
 }
@@ -87,13 +97,11 @@ section#conclusion div {
 
 section#introduction div.content-wrapper {
 	margin-left: 15px;
-	background-color: #ffffff;
 	text-align: left;
 }
 
 section#personal-practices div.content-wrapper {
 	margin-right: 15px;
-	background-color: #ffafb7;
 	text-align: right;
 }
 
