@@ -82,8 +82,6 @@ section#conclusion {
   grid-template-columns: 1fr
 }
 
-@media screen and (min-width: 670px)
-
 /* SECTION STYLES */
 
 section#introduction div,
