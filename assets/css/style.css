@@ -1,21 +1,8 @@
 /* GENERAL STYLES */
 
 html {
-	section#introduction {
-		background-color: #ffffff;
-	}
-	
-	section#personal-practices {
-		background-color: #ffafb7;
-	}
-	
-	section#social-practices {
-		background-color: #ffffff;
-	}
-	
-	section#conclusion {
-		background-color: #ffafb7;
-	}
+
+	background: radial-gradient(#ffffff, #ffafb7);
 }
 
 p {
