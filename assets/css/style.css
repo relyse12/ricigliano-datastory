@@ -66,10 +66,14 @@ section#personal-practices {
   grid-template-columns: 1fr 1fr;
 }
 
+@media screen and (min-width:1080px) {
+
 section#social-practices {
   display:grid;
   grid-gap: 10px;
   grid-template-columns: 1fr 1fr;
+}
+
 }
 
 section#social-practices div.video-container {
@@ -81,6 +85,8 @@ section#conclusion {
   grid-gap: 20px;
   grid-template-columns: 1fr
 }
+
+
 
 /* SECTION STYLES */
 
